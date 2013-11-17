@@ -1,0 +1,122 @@
+/*top navigation and contact bars*/
+.ozone-logo {
+	width: 300px;
+	padding-top: 5px;
+}
+
+.nav-text {
+	font-family: 'Chango', Tahoma;
+	font-size: 1.2em;
+	padding: 10px;
+	margin: 20px;
+}
+
+.nav-text a {
+	text-decoration: none;
+	color: #333333;
+}
+
+.nav-text a:hover {
+	text-decoration: none;
+	color: #333333;
+}
+
+.nav-text a:hover {
+	text-decoration: none;
+	color: #65baeb;
+}
+
+.navitem {
+	margin-left: 15px;
+}
+
+.contactbar {
+	background: black;
+	color: white;
+	text-align: center;
+	font-family: 'Days One', sans-serif;
+	font-size: 1.2em;
+	vertical-align: center;
+	text-decoration: none;
+}
+
+.contactbar a {
+	color: white;
+	text-decoration: none;
+}
+
+.contactbar a:hover {
+	color: #65baeb;
+	text-decoration: none;
+}
+
+.contact-item {
+	width: 33%;
+}
+
+/* hero section and background images */
+.hero-wrapper {
+	background: url(images/desk.png) no-repeat;
+	padding-top: 83px;
+    min-height: 400px;
+    margin: 0;
+}
+
+/*background image for hero-wrapper*/
+.main-image {
+	padding: 0px;
+}
+
+/*text for inside hero-wrapper*/
+.intro-text {
+	color: white;
+	font-size: 3em;
+	text-shadow: 4px 4px #000000;
+	font-family: 'Chango', Tahoma;
+}
+
+/* CSS for Product & Services Section */
+.header-font {
+	font-family: 'Chango', Tahoma;
+	color: #33333;
+}
+
+.header-font a {
+	color: #33333;
+}
+
+.product-font {
+	text-align: center;
+	font-family: 'Chango', Tahoma;
+	color: #33333;
+}
+
+.desc-font {
+	font-family: 'Days One', sans-serif;
+	text-align: center;
+}
+
+.circles {
+	width: 33%;
+}
+
+.circles a {
+	color: #333333;
+}
+
+.logos {
+	width: 16.667%;
+	float: left;
+}
+
+.logos img {
+	vertical-align: text-bottom;
+}
+
+.about-font {
+	font-family: 'Days One', sans-serif;
+}
+
+.map {
+	margin: 50px auto;
+}
